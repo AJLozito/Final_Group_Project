@@ -13,3 +13,5 @@
   	How do these popularity characteristics change over time?
   
 •	Communication Protocols – We agreed to meet in class and on zoom sessions
+
+Link to Google Slide Presentation (DRAFT) - https://docs.google.com/presentation/d/1eonvxaeexxP1OR3qs7QrAmMA7I7W4d7aHEfBT5ostdE/edit?usp=sharing
