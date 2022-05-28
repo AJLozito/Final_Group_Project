@@ -1,0 +1,101 @@
+musicid,trackname,artistname,bpm,energy,danceability,loudness,liveness,valence,acounticness,speechiness,popularity,songyear
+1,drivers license,Olivia Rodrigo,144,0.431,0.561,-8.81,0.106,0.137,0.768,0.0578,92,2021
+1,Seёorita,Shawn Mendes,117,55,76,-6,8,75,4,3,79,2019
+2,MONTERO (Call Me By Your Name),Lil Nas X,179,0.503,0.593,-6.725,0.405,0.71,0.293,0.22,90,2021
+2,China,Anuel AA,105,81,79,-4,8,61,8,9,92,2019
+3,boyfriend (with Social House),Ariana Grande,190,80,40,-4,16,70,12,46,85,2019
+3,STAY (with Justin Bieber),The Kid LAROI,170,0.764,0.591,-5.484,0.103,0.478,0.0383,0.0483,92,2021
+4,Beautiful People (feat. Khalid),Ed Sheeran,93,65,64,-8,8,55,12,19,86,2019
+4,good 4 u,Olivia Rodrigo,167,0.664,0.563,-5.044,0.0849,0.688,0.335,0.154,95,2021
+5,Goodbyes (Feat. Young Thug),Post Malone,150,65,58,-4,11,18,45,7,94,2019
+5,Levitating (feat. DaBaby),Dua Lipa,103,0.825,0.702,-3.787,0.0674,0.915,0.00883,0.0601,89,2021
+6,I Don't Care (with Justin Bieber),Ed Sheeran,102,68,80,-5,9,84,9,4,84,2019
+6,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,90,0.696,0.677,-6.181,0.42,0.464,0.321,0.119,90,2021
+7,Ransom,Lil Tecca,180,64,75,-6,7,23,2,29,92,2019
+7,Kiss Me More (feat. SZA),Doja Cat,111,0.705,0.764,-3.463,0.12,0.781,0.259,0.0284,88,2021
+8,How Do You Sleep?,Sam Smith,111,68,48,-5,8,35,15,9,90,2019
+8,Blinding Lights,The Weeknd,171,0.73,0.514,-5.934,0.0897,0.334,0.00146,0.0598,93,2021
+9,Old Town Road - Remix,Lil Nas X,136,62,88,-6,11,64,5,10,87,2019
+9,Heat Waves,Glass Animals,81,0.525,0.761,-6.9,0.0921,0.531,0.44,0.0944,94,2021
+10,Beggin',Måneskin,134,0.8,0.714,-4.808,0.359,0.589,0.127,0.0504,93,2021
+10,bad guy,Billie Eilish,135,43,70,-11,10,56,33,38,95,2019
+11,Astronaut In The Ocean,Masked Wolf,150,0.695,0.778,-6.865,0.15,0.472,0.175,0.0913,77,2021
+11,Callaita,Bad Bunny,176,62,61,-5,24,24,60,31,93,2019
+12,DÁKITI,Bad Bunny,110,0.573,0.731,-10.059,0.113,0.145,0.401,0.0544,87,2021
+12,Loco Contigo (feat. J. Balvin & Tyga),DJ Snake,96,71,82,-4,15,38,28,7,86,2019
+13,Someone You Loved,Lewis Capaldi,110,41,50,-6,11,45,75,3,88,2019
+13,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,150,0.691,0.741,-7.395,0.0476,0.892,0.0221,0.0672,90,2021
+14,Otro Trago - Remix,Sech,176,79,73,-2,6,76,7,20,87,2019
+14,Bad Habits,Ed Sheeran,126,0.893,0.807,-3.745,0.366,0.537,0.0451,0.0347,95,2021
+15,Save Your Tears,The Weeknd,118,0.826,0.68,-5.487,0.543,0.644,0.0212,0.0309,90,2021
+15,Money In The Grave (Drake ft. Rick Ross),Drake,101,50,83,-4,12,10,10,5,92,2019
+16,No Guidance (feat. Drake),Chris Brown,93,45,70,-7,16,14,12,15,82,2019
+16,Butter,BTS,110,0.459,0.759,-5.187,0.0906,0.695,0.00323,0.0948,71,2021
+17,Leave The Door Open,Bruno Mars,148,0.616,0.586,-7.964,0.0927,0.719,0.182,0.0324,86,2021
+17,LA CANCIгN,J Balvin,176,65,75,-6,11,43,15,32,90,2019
+18,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,90,48,76,-6,7,91,56,5,91,2019
+18,deja vu,Olivia Rodrigo,181,0.612,0.442,-7.222,0.37,0.178,0.584,0.112,90,2021
+19,Lalala,Y2K,130,39,84,-8,14,50,18,8,88,2019
+19,Todo De Ti,Rauw Alejandro,128,0.719,0.78,-3.613,0.0931,0.336,0.302,0.0506,69,2021
+20,Mood (feat. iann dior),24kGoldn,91,0.716,0.701,-3.671,0.324,0.732,0.174,0.0361,89,2021
+20,Truth Hurts,Lizzo,158,62,72,-3,12,41,11,11,91,2019
+21,Piece Of Your Heart,MEDUZA,124,74,68,-7,7,63,4,3,91,2019
+21,The Business,Tiësto,120,0.62,0.798,-7.079,0.112,0.235,0.414,0.232,88,2021
+22,Dynamite,BTS,114,0.765,0.746,-4.41,0.0936,0.737,0.0112,0.0993,67,2021
+22,Panini,Lil Nas X,154,59,70,-6,12,48,34,8,91,2019
+23,No Me Conoce - Remix,Jhay Cortez,92,79,81,-4,9,58,14,7,83,2019
+23,Yonaguni,Bad Bunny,180,0.648,0.644,-4.601,0.135,0.44,0.276,0.118,94,2021
+24,Watermelon Sugar,Harry Styles,95,0.816,0.548,-4.209,0.335,0.557,0.122,0.0465,90,2021
+24,Soltera - Remix,Lunay,92,78,80,-4,44,80,36,4,91,2019
+25,bad guy (with Justin Bieber),Billie Eilish,135,45,67,-11,12,68,25,30,89,2019
+25,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Riton,123,0.862,0.824,-3.424,0.303,0.801,0.0076,0.126,88,2021
+26,telepatía,Kali Uchis,84,0.524,0.653,-9.016,0.203,0.553,0.112,0.0502,87,2021
+26,If I Can't Have You,Shawn Mendes,124,82,69,-4,13,87,49,6,70,2019
+27,WITHOUT YOU,The Kid LAROI,93,0.413,0.662,-7.357,0.134,0.467,0.213,0.0299,85,2021
+27,Dance Monkey,Tones and I,98,59,82,-6,18,54,69,10,83,2019
+28,It's You,Ali Gatie,96,46,73,-7,19,40,37,3,89,2019
+28,Heartbreak Anniversary,Giveon,89,0.465,0.449,-8.964,0.303,0.543,0.524,0.0791,86,2021
+29,Con Calma,Daddy Yankee,94,86,74,-3,6,66,11,6,91,2019
+29,traitor,Olivia Rodrigo,101,0.339,0.38,-7.885,0.12,0.0849,0.691,0.0338,92,2021
+30,QUE PRETENDES,J Balvin,93,79,64,-4,36,94,3,25,89,2019
+30,Pepas,Farruko,130,0.766,0.762,-3.955,0.128,0.442,0.00776,0.0343,86,2021
+31,positions,Ariana Grande,144,0.802,0.737,-4.771,0.0931,0.682,0.468,0.0878,88,2021
+31,Takeaway,The Chainsmokers,85,51,29,-8,10,36,12,4,84,2019
+32,Someone You Loved,Lewis Capaldi,110,0.405,0.501,-5.679,0.105,0.446,0.751,0.0319,88,2021
+32,7 rings,Ariana Grande,140,32,78,-11,9,33,59,33,89,2019
+33,0.958333333,Maluma,96,71,78,-5,9,68,22,28,89,2019
+33,Bandido,Myke Towers,169,0.617,0.713,-4.637,0.0962,0.682,0.122,0.0887,82,2021
+34,I WANNA BE YOUR SLAVE,Måneskin,133,0.608,0.75,-4.008,0.178,0.958,0.00165,0.0387,88,2021
+34,The London (feat. J. Cole & Travis Scott),Young Thug,98,59,80,-7,13,18,2,15,89,2019
+35,Never Really Over,Katy Perry,100,88,77,-5,32,39,19,6,89,2019
+35,RAPSTAR,Polo G,81,0.536,0.789,-6.862,0.129,0.437,0.41,0.242,82,2021
+36,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,114,72,66,-7,14,32,18,6,89,2019
+36,LA NOCHE DE ANOCHE,Bad Bunny,82,0.618,0.856,-4.892,0.0866,0.391,0.0303,0.286,87,2021
+37,Otro Trago,Sech,176,70,75,-5,11,62,14,34,91,2019
+37,Streets,Doja Cat,90,0.463,0.749,-8.433,0.338,0.189,0.21,0.0842,87,2021
+38,Sweater Weather,The Neighbourhood,124,0.807,0.612,-2.81,0.101,0.398,0.0495,0.0336,92,2021
+38,Antisocial (with Travis Scott),Ed Sheeran,152,82,72,-5,36,91,13,5,87,2019
+39,Fiel,Los Legendarios,98,0.701,0.849,-4.407,0.112,0.505,0.407,0.06,82,2021
+39,Sucker,Jonas Brothers,138,73,84,-5,11,95,4,6,80,2019
+40,Need to Know,Doja Cat,130,0.609,0.664,-6.509,0.0926,0.194,0.304,0.0707,93,2021
+40,"fuck, i''m lonely (with Anne-Marie) - from 13 Reasons Why: Season 3",Lauv,95,56,81,-6,6,68,48,7,78,2019
+41,Higher Love,Kygo,104,68,69,-7,10,40,2,3,88,2019
+41,Don't Start Now,Dua Lipa,124,0.793,0.793,-4.521,0.0951,0.679,0.0123,0.083,84,2021
+42,You Need To Calm Down,Taylor Swift,85,68,77,-6,7,73,1,5,90,2019
+42,Lemonade (feat. Gunna Don Toliver & NAV),Internet Money,140,0.658,0.8,-6.142,0.111,0.462,0.25,0.079,81,2021
+43,Woman,Doja Cat,108,0.764,0.824,-4.175,0.117,0.881,0.0888,0.0854,95,2021
+43,Shallow,Lady Gaga,96,39,57,-6,23,32,37,3,87,2019
+44,Arcade,Duncan Laurence,72,0.35,0.453,-11.639,0.144,0.279,0.827,0.0425,78,2021
+44,Talk,Khalid,136,40,90,-9,6,35,5,13,84,2019
+45,Good Days,SZA,121,0.655,0.436,-8.37,0.688,0.412,0.499,0.0583,86,2021
+45,Con Altura,ROSALЭA,98,69,88,-4,5,75,39,12,88,2019
+46,Qué Más Pues?,J Balvin,102,0.817,0.903,-3.972,0.242,0.732,0.0272,0.095,79,2021
+46,One Thing Right,Marshmello,88,62,66,-2,58,44,7,5,88,2019
+47,Te Robarщ,Nicky Jam,176,75,67,-4,8,80,24,6,88,2019
+47,Head & Heart (feat. MNEK),Joel Corry,123,0.874,0.734,-3.158,0.0489,0.905,0.168,0.0662,86,2021
+48,34+35,Ariana Grande,110,0.585,0.83,-6.476,0.248,0.485,0.237,0.094,85,2021
+48,Happier,Marshmello,100,79,69,-3,17,67,19,5,88,2019
+49,Call You Mine,The Chainsmokers,104,70,59,-6,41,50,23,3,88,2019
+49,you broke me first,Tate McRae,124,0.373,0.667,-9.389,0.0906,0.0823,0.785,0.05,88,2021
+50,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,95,79,75,-6,7,61,21,12,82,2019
+50,Pareja Del Año,Sebastian Yatra,80,0.622,0.715,-5.102,0.0948,0.808,0.163,0.046,86,2021
