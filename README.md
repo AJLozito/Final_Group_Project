@@ -85,4 +85,4 @@ As shown above the results do not lead us to have significant confidence in any 
 In the end, it appeared that some models would generically predict if a song would be popular but would fail in determining to what extent. A model would be able to predict if the popularity score would be over the mean but the deviation from the ‘true’ popularity score was immense. 
 
 
-Link to Google Slide Presentation (DRAFT) - https://docs.google.com/presentation/d/1eonvxaeexxP1OR3qs7QrAmMA7I7W4d7aHEfBT5ostdE/edit?usp=sharing
+Link to Google Slide Presentation - https://docs.google.com/presentation/d/1eonvxaeexxP1OR3qs7QrAmMA7I7W4d7aHEfBT5ostdE/edit?usp=sharing
